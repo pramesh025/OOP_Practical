@@ -1,6 +1,6 @@
 # OOP_Practical
 
-Repo for Labwork of OOP of SEM II
+Repo for Labwork of OOP of SEM III
 
-Pramesh Shrestha
-076BEI025
+Pranab Ratna Gubhaju
+076BCT048
